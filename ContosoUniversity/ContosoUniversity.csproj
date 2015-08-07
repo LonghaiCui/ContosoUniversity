@@ -167,9 +167,20 @@
     <Compile Include="Migrations\201508062105308_CompleteStudentModel.Designer.cs">
       <DependentUpon>201508062105308_CompleteStudentModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201508072220045_ComplexDataModel.cs" />
+    <Compile Include="Migrations\201508072220045_ComplexDataModel.Designer.cs">
+      <DependentUpon>201508072220045_ComplexDataModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201508072235320_ComplexDataModel1.cs" />
+    <Compile Include="Migrations\201508072235320_ComplexDataModel1.Designer.cs">
+      <DependentUpon>201508072235320_ComplexDataModel1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
+    <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Enrollment.cs" />
+    <Compile Include="Models\Instructor.cs" />
+    <Compile Include="Models\OfficeAssignment.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModel\EnrollmentDateGroup.cs" />
@@ -240,6 +251,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201508062105308_CompleteStudentModel.resx">
       <DependentUpon>201508062105308_CompleteStudentModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201508072220045_ComplexDataModel.resx">
+      <DependentUpon>201508072220045_ComplexDataModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201508072235320_ComplexDataModel1.resx">
+      <DependentUpon>201508072235320_ComplexDataModel1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
