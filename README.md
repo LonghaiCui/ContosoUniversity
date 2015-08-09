@@ -9,6 +9,7 @@ http://imdbt.blog.51cto.com/903896/218590
 
 Develop and share your code in Git using Visual Studio
 https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs
+http://blogs.msdn.com/b/visualstudioalm/archive/2013/02/06/set-up-connect-and-publish-using-visual-studio-with-git.aspx#clone
 
 Practice more with these
 ASP.NET MVCfor C#
