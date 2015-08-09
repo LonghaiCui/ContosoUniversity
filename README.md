@@ -1,5 +1,9 @@
 # ContosoUniversity
 Practice: Getting started with Entity Framework in MVC 5
+Copyright belongs to MicroSoft and the project's author Tom Dykstra
+http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+
+
 
 Best blog explaining lazy/ eager/ explicit loading.
 https://msdn.microsoft.com/en-us/magazine/hh205756.aspx
@@ -9,6 +13,10 @@ http://imdbt.blog.51cto.com/903896/218590
 
 Develop and share your code in Git using Visual Studio
 https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs
+http://blogs.msdn.com/b/visualstudioalm/archive/2013/02/06/set-up-connect-and-publish-using-visual-studio-with-git.aspx#clone
+
+Team Foundation Server Source Control
+https://www.youtube.com/watch?v=u93XS_39YAA
 http://blogs.msdn.com/b/visualstudioalm/archive/2013/02/06/set-up-connect-and-publish-using-visual-studio-with-git.aspx#clone
 
 Practice more with these
