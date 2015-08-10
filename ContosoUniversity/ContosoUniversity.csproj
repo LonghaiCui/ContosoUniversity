@@ -178,6 +178,14 @@
     <Compile Include="Migrations\201508072235320_ComplexDataModel1.Designer.cs">
       <DependentUpon>201508072235320_ComplexDataModel1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201508100255176_DepartmentSP.cs" />
+    <Compile Include="Migrations\201508100255176_DepartmentSP.Designer.cs">
+      <DependentUpon>201508100255176_DepartmentSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201508100337159_RowVersion.cs" />
+    <Compile Include="Migrations\201508100337159_RowVersion.Designer.cs">
+      <DependentUpon>201508100337159_RowVersion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Department.cs" />
@@ -278,6 +286,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201508072235320_ComplexDataModel1.resx">
       <DependentUpon>201508072235320_ComplexDataModel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201508100255176_DepartmentSP.resx">
+      <DependentUpon>201508100255176_DepartmentSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201508100337159_RowVersion.resx">
+      <DependentUpon>201508100337159_RowVersion.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

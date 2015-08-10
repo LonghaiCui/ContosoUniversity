@@ -29,6 +29,8 @@ namespace ContosoUniversity.DAL
                  .MapRightKey("InstructorID")
                  .ToTable("CourseInstructor"));
 
+            modelBuilder.Entity<Department>().MapToStoredProcedures();
+
             modelBuilder.Entity<Instructor>()
              .HasOptional(p => p.OfficeAssignment).WithRequired(p => p.Instructor);
 
