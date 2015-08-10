@@ -19,6 +19,9 @@ Team Foundation Server Source Control
 https://www.youtube.com/watch?v=u93XS_39YAA
 http://blogs.msdn.com/b/visualstudioalm/archive/2013/02/06/set-up-connect-and-publish-using-visual-studio-with-git.aspx#clone
 
+Design Pattern Review
+http://www.cnblogs.com/beijiguangyong/archive/2010/11/15/2302807.html
+
 Practice more with these
 ASP.NET MVCfor C#
 Spring for Java
