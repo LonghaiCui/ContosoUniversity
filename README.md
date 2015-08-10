@@ -34,3 +34,6 @@ HADOOP for Big Data
 
 Work on Certificates 
 MicroSoft/ Oracle /Cisco Network
+
+Data structures and Algorithms 
+Leetcode/ careercup
