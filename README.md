@@ -11,6 +11,9 @@ https://msdn.microsoft.com/en-us/magazine/hh205756.aspx
 Useful T-SQL commands
 http://imdbt.blog.51cto.com/903896/218590
 
+SQL Server Procedure
+http://www.cnblogs.com/hoojo/archive/2011/07/19/2110862.html
+
 Develop and share your code in Git using Visual Studio
 https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs
 http://blogs.msdn.com/b/visualstudioalm/archive/2013/02/06/set-up-connect-and-publish-using-visual-studio-with-git.aspx#clone
